@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThalyMtv
 - 👀 I’m interested in SQL, Flutter, Design, Books, animes, series ...
-- 🌱 I’m currently learning SQL. Flutter and Python
+- 🌱 I’m currently learning SQL, Flutter and Python
 - 💞️ I’m looking to collaborate on something funny as an android App :D
 - 📫 How to reach me? Send me a message...
 
